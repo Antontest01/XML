@@ -1,0 +1,8 @@
+<skills>
+	<API>
+		<Rest>Get,Put,Post,Delete</Rest>
+		<Soap>XML</Soap>
+	</API>
+	<Linux>PWD,CD,LS,MKDIR,TOUCH,VIM</Linux>
+	<Github>git,status,git add, git commit, git push</Github>
+</skills>

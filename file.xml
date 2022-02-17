@@ -1,6 +1,9 @@
-<name>Anton</name>
-		<age>29</age>
-		<salary>1000</salary>
+<about me>
+	<name>Anton</Anton>
+	<age>29</age>
+	<salary>1000</salary>
+</about me>
+
 
 
 
